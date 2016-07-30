@@ -448,13 +448,17 @@ PlayerSettings:
   WebGL::dataCaching: 0
   WebGL::useEmbeddedResources: 0
   stringPropertyNames:
+  - Build_ServiceEnabled::Build_ServiceEnabled
+  - UNet_ServiceEnabled::UNet_ServiceEnabled
   - WebGL::emscriptenArgs
   - WebGL::template
   - additionalIl2CppArgs::additionalIl2CppArgs
+  Build_ServiceEnabled::Build_ServiceEnabled: False
+  UNet_ServiceEnabled::UNet_ServiceEnabled: True
   WebGL::emscriptenArgs: 
   WebGL::template: APPLICATION:Default
   additionalIl2CppArgs::additionalIl2CppArgs: 
-  cloudProjectId: 
-  projectName: 
-  organizationId: 
+  cloudProjectId: f080a7af-6a87-403a-8285-a86f331ef79c
+  projectName: comaGengre
+  organizationId: basanas1606
   cloudEnabled: 0
